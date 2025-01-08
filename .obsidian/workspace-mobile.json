@@ -29,7 +29,7 @@
               "state": {
                 "file": "GitをAndroidで使う方法.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "GitをAndroidで使う方法"
@@ -148,9 +148,19 @@
           "icon": "lucide-list",
           "title": "アウトライン"
         }
+      },
+      {
+        "id": "8b28208aeea68798",
+        "type": "leaf",
+        "state": {
+          "type": "git-view",
+          "state": {},
+          "icon": "git-pull-request",
+          "title": "Source Control"
+        }
       }
     ],
-    "currentTab": 0
+    "currentTab": 3
   },
   "left-ribbon": {
     "hiddenItems": {
