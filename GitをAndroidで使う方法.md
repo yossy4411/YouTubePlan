@@ -27,3 +27,4 @@ $ pkg install
 次に、Gitをインストールしちゃってください。`pkg install git`でできます。
 Gitがインストールできたかどうかは`git version`で確認できます。
 ### 助手
+
