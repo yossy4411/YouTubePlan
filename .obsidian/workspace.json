@@ -35,8 +35,7 @@
               "title": "自己紹介"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -178,9 +177,9 @@
       "command-palette:コマンドパレットを開く": false
     }
   },
-  "active": "f51ea1b4abed4995",
+  "active": "629c7d6da1fecfa0",
   "lastOpenFiles": [
-    "GitをAndroidで使う方法.md",
-    "自己紹介.md"
+    "自己紹介.md",
+    "GitをAndroidで使う方法.md"
   ]
 }
